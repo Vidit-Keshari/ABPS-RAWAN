@@ -1,0 +1,105 @@
+body{
+ background: hsla(253, 100%, 10%, 1);
+ background: linear-gradient(0deg, hsla(253, 100%, 10%, 1) 0%, hsla(220, 100%, 17%, 1) 10%, hsla(220, 100%, 29%, 1) 20%, hsla(220, 100%, 41%, 1) 30%, hsla(212, 100%, 47%, 1) 40%, hsla(215, 100%, 61%, 1) 50%, hsla(204, 96%, 54%, 1) 60%, hsla(210, 100%, 68%, 1) 70%, hsla(207, 100%, 73%, 1) 81%, hsla(199, 83%, 72%, 1) 90%, hsla(205, 97%, 77%, 1) 100%);
+ background: -moz-linear-gradient(0deg, hsla(253, 100%, 10%, 1) 0%, hsla(220, 100%, 17%, 1) 10%, hsla(220, 100%, 29%, 1) 20%, hsla(220, 100%, 41%, 1) 30%, hsla(212, 100%, 47%, 1) 40%, hsla(215, 100%, 61%, 1) 50%, hsla(204, 96%, 54%, 1) 60%, hsla(210, 100%, 68%, 1) 70%, hsla(207, 100%, 73%, 1) 81%, hsla(199, 83%, 72%, 1) 90%, hsla(205, 97%, 77%, 1) 100%);
+ background: -webkit-linear-gradient(0deg, hsla(253, 100%, 10%, 1) 0%, hsla(220, 100%, 17%, 1) 10%, hsla(220, 100%, 29%, 1) 20%, hsla(220, 100%, 41%, 1) 30%, hsla(212, 100%, 47%, 1) 40%, hsla(215, 100%, 61%, 1) 50%, hsla(204, 96%, 54%, 1) 60%, hsla(210, 100%, 68%, 1) 70%, hsla(207, 100%, 73%, 1) 81%, hsla(199, 83%, 72%, 1) 90%, hsla(205, 97%, 77%, 1) 100%);
+ filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#0B0033", endColorstr="#001D56", GradientType=1);
+ background-size: cover;
+ background-position: 0;
+ color: yellow !important;
+}
+
+p{
+font-size: 20px;
+}
+
+#table1{
+width: 700px;
+}
+
+#principal{
+width: 150px;
+height: 170px;
+float: right;
+}
+
+#logo{
+float: right;
+}
+
+#abps_info{
+text-align: justify;
+}
+
+li{
+font-size: 18px;
+}
+
+table{
+padding: 1px;
+border-spacing: 5px;
+width: 700px;
+color: red;
+font-weight: 777;
+font-style: italic, oblique;
+text-decoration-line: underline;
+box-shadow: 5px 10px 15px darkmagenta;
+}
+
+#sno{
+text-align: center;
+}
+
+tr:nth-child(even){
+background-color: #00FFFF;
+}
+
+#image{
+width: 77px;
+height: 77px;
+font-size: x-small;
+}
+
+.copyright_footer{
+width: 100%;
+bottom: 0;
+position: sticky;
+background-color: rgb(50,50,255);
+}
+
+#heading{
+font-family: rockwell;
+background-color: yellow;
+box-shadow: 2px 2px 25px purple;
+height: 100px;
+}
+
+label{
+font-size: 20px;
+}
+
+.partweb{
+float: right;
+width: 200px;
+height: 200px;
+}
+
+#header, h3{
+width: 200px;
+text-align: center;
+background-color: yellow;
+}
+
+#cirrcular{
+width: 70%;
+text-align: left;
+}
+
+button{
+border-width: 7px;
+border-color: rgb(30,20,255);
+background-color: rgb(30,20,255);
+color: yellow;
+font-size: large;
+border-style: ridge;
+}
